@@ -28,23 +28,50 @@ img{
     text-align: center;
 }
 
-.card{
-    background-color: black;
-    color: white;
+.col{
+    background-color: white;
     float: left;
     width: calc(100% / 3);
-    
-    
+    padding: 10px;
+}
+
+.card{
+    color: white;
+    background-color: black;
+    padding: 1rem;
 }
 
 .row{
-    padding-top: 2rem;
+    padding-top: 3rem;
+    
 }
 
 
 a{
     color:rgb(87, 87, 243)
 }
+
+.col_4{
+    margin: 1rem;
+}
+
+.card_text{
+    width: calc(100% / 2);
+    float: left;
+    padding: 0.2rem;
+
+}
+    
+
+    
+
+
+   
+
+    
+    
+    
+
 
 
   
