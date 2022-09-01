@@ -27,6 +27,12 @@ img{
 
 h1{
     color: rgb(237, 15, 170);
+    font-family: 'Kanit', sans-serif;
+}
+
+p, h2, a{
+    font-family: 'Kanit', sans-serif;
+    
 }
 
 
@@ -58,7 +64,9 @@ h1 ~ p{
 
 
 a{
-    color:rgb(87, 87, 243)
+    color:rgb(87, 87, 243);
+    font-size: 0.7rem;
+    
 }
 
 
