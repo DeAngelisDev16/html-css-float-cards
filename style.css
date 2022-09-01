@@ -55,6 +55,7 @@ h1 ~ p{
     color: white;
     background-color: black;
     padding: 1rem;
+    float: left;
 }
 
 .row{
